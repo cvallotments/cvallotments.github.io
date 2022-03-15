@@ -32,8 +32,9 @@
           
           <nav class="main-nav">
             <ul>
-              <li><a href="/">Home</a></li>
-              <li><a href="/blog.html">Blog</a></li>
+            {% for item in site.data.navidation %}
+              <li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
+            {% endfor %}
             </ul>
           </nav>
         </header>
