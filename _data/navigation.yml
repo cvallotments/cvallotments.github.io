@@ -1,0 +1,15 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Photos
+  url: /photos/
+
+- title: Members
+  url: /members/
+
+- title: Blog
+  url: /blog/
+
+- title: Contact
+  url: /contact/
