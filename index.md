@@ -1,5 +1,4 @@
 ## Church Vale Allotments
-### Church Vale Allotment Association of High Pittington, County Durham
 
 We are a small group of families in High Pittington, Durham, growing veggies, fruit and flowers and enjoying the peace and quiet of our lovely location.  The allotments back on to trees and fields, and we often see and hear wildlife.
 
