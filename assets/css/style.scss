@@ -1,8 +1,9 @@
 ---
 ---
-
-@import "{{ site.theme }}";
-
 #header-wrap {
   background: linear-gradient(to top, #376437, #216421);
 }
+
+@import "{{ site.theme }}";
+
+
